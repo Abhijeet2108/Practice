@@ -1,0 +1,70 @@
+#Logo{
+    height: 50px;
+    width: 400px;
+     
+     
+    margin: 30px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    color: #bbd5e1;
+}
+#Logo:hover{
+    cursor: pointer;
+    font-weight: 600;
+    color:#1847d4;
+}
+ul button {
+    display: inline;
+    margin: 10px;
+}
+ 
+#nav{
+    font-size: 22px;
+     
+}
+
+main{
+    background-color: #bbd5e1;
+    margin: 30px;
+    padding: 5px;
+    font-size: 18px;
+    color:#023047;
+}
+
+button{
+    font-size: 20px;
+    height: 38px;
+    padding: 0px 30px 0px 10px;
+    text-align: center;
+    border-radius: 30px;
+    cursor: pointer;
+    background-color: #bbd5e1;
+    color: black;
+    
+}
+
+button:hover {
+    background-color: #1847d4; /* Darker color on hover */
+    font-weight: 650;
+    color: cadetblue;
+
+}
+
+
+
+
+#first {
+    height: 300px;
+    width: 1450;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; /* Ensures the image covers the entire element */
+    background-image: url(wall.jpg);
+}
+
+
+span{
+    background-color: chartreuse;
+}
+
+ 
